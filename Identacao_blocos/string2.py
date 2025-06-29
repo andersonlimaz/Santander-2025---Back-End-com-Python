@@ -16,4 +16,6 @@ print("nome: {nome} Idade: {idade} ".format (nome=nome, idade=idade))
 
 print("nome: {nome} Idade: {idade}".format(**dados)) # formata a string com um dicionário
 
-print(f"nome: {nome} Idade: {idade}") # formata a string com f-strings (Python 3.6+)
+print(f"nome: {nome} Idade: {idade}") # formata a string com f-strings (Python 3.6+)    7
+
+        
