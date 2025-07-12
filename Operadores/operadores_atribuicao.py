@@ -3,7 +3,7 @@ print(saldo)
 saldo = 200
 print(saldo)
 
-saldo += 100  # Adiciona 100 ao saldo
+saldo= + 100  # Adiciona 100 ao saldo
 print(saldo)
 saldo -= 50   # Subtrai 50 do saldo
 print(saldo)

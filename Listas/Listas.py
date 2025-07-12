@@ -47,12 +47,12 @@ matriz[2][1] #["5"]
 
 #Fatiamento
 lista= ["p","y","t","h","o","n"]
-print(lista[2:])
-print(lista[:2])
-print(lista[1:3])
-print(lista[0:3:2])
-print(lista[::])
-print(lista[::-1])
+print(lista[2:])# p, y 
+print(lista[:2]) #hon
+print(lista[1:3])#p t
+print(lista[0:3:2])#p, t
+print(lista[::]) #python
+print(lista[::-1])#nohtyp
 
 carros = ["gol", "celta","palio",]
 
@@ -171,6 +171,3 @@ linguagens.sort(key=lambda x: len(x))
 linguagens = ["python","js","c","java","csharp"]
 sorted(linguagens, key=lambda x: len(x))
 sorted(linguagens, key=lambda x: len(x), reverse=True)
-
-
-# Execicio 
