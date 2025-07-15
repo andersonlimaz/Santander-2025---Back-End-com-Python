@@ -13,3 +13,4 @@ elif cupom == "SEM_DESCONTO":
     print(f"{preco:.2f}")
 else:
     print("Cupom inválido")
+    
