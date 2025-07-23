@@ -28,7 +28,6 @@ cao_1 = cachorro("Lobo","Marrom", False)
 cao_2 = cachorro("Caramelo", "Caramelo",)
 
 cao_1.latir()
-
 print(cao_2.acordado)
 cao_2.dormir()
 print(cao_2.acordado)
